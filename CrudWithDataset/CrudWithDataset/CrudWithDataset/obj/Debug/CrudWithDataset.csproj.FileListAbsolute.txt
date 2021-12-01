@@ -1,0 +1,12 @@
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudWithDataset\CrudWithDataset\CrudWithDataset\bin\Debug\CrudWithDataset.exe.config
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudWithDataset\CrudWithDataset\CrudWithDataset\bin\Debug\CrudWithDataset.exe
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudWithDataset\CrudWithDataset\CrudWithDataset\bin\Debug\CrudWithDataset.pdb
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudWithDataset\CrudWithDataset\CrudWithDataset\obj\Debug\CrudWithDataset.csproj.AssemblyReference.cache
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudWithDataset\CrudWithDataset\CrudWithDataset\obj\Debug\CrudWithDataset.csproj.SuggestedBindingRedirects.cache
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudWithDataset\CrudWithDataset\CrudWithDataset\obj\Debug\CrudWithDataset.frmDataset.resources
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudWithDataset\CrudWithDataset\CrudWithDataset\obj\Debug\CrudWithDataset.frmPeople.resources
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudWithDataset\CrudWithDataset\CrudWithDataset\obj\Debug\CrudWithDataset.Properties.Resources.resources
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudWithDataset\CrudWithDataset\CrudWithDataset\obj\Debug\CrudWithDataset.csproj.GenerateResource.cache
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudWithDataset\CrudWithDataset\CrudWithDataset\obj\Debug\CrudWithDataset.csproj.CoreCompileInputs.cache
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudWithDataset\CrudWithDataset\CrudWithDataset\obj\Debug\CrudWithDataset.exe
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudWithDataset\CrudWithDataset\CrudWithDataset\obj\Debug\CrudWithDataset.pdb
